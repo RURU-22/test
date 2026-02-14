@@ -13,7 +13,7 @@
 int OnInit()
   {
 //---
-   
+   Print("Test");
 //---
    return(INIT_SUCCEEDED);
   }
